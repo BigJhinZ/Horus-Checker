@@ -1,6 +1,6 @@
 # Genesis Horus Checker Pro
 
-![License](https://img.shields.io/github/license/SeuUsuario/GenesisHorusCheckerPro)
+![License](https://img.shields.io/github/license/BigJhinZ/GenesisHorusCheckerPro)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 
 **Genesis Horus Checker Pro** é uma ferramenta avançada de análise de segurança para projetos em **JavaScript (JS)** e **TypeScript (TS)**. Desenvolvida para identificar padrões suspeitos e potenciais ameaças no código, esta aplicação é essencial para desenvolvedores que buscam garantir a integridade e segurança de seus projetos.
