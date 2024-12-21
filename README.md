@@ -43,6 +43,8 @@ Baixe a versão mais recente do instalador aqui:
 
 ## 💻 Instalação
 
+- **Instalador básico**": Após a instalação, será criado um atalho na área de trabalho.
+
 ### Pré-requisitos
 
 - [Node.js](https://nodejs.org/) (versão 14 ou superior)
