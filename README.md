@@ -28,10 +28,10 @@
 
 ## 📷 Capturas de Tela
 
-![Tela Inicial](assets/screenshots/home.png)
+![Tela Inicial](https://prnt.sc/gBUwzOoUtsvd)
 *Tela inicial da aplicação.*
 
-![Resultados da Análise](assets/screenshots/results.png)
+![Resultados da Análise](https://prnt.sc/Qfaz44-ZCS5c)
 *Exemplo de resultados após a análise.*
 
 ## 💻 Instalação
