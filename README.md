@@ -47,3 +47,7 @@ Baixe a versão mais recente do instalador aqui:
 
 - [Node.js](https://nodejs.org/) (versão 14 ou superior)
 - [Git](https://git-scm.com/) (Se for clonar)
+
+## 🦾 Contribuição
+
+- **PIX**: bigjhinz@gmail.com
