@@ -28,10 +28,10 @@
 
 ## 📷 Capturas de Tela
 
-![Tela Inicial](https://prnt.sc/gBUwzOoUtsvd)
+![Tela Inicial](https://github.com/user-attachments/assets/12c20345-6ccd-4001-b4e9-4fb03d482ff3)
 *Tela inicial da aplicação.*
 
-![Resultados da Análise](https://prnt.sc/Qfaz44-ZCS5c)
+![Pós analise](https://github.com/user-attachments/assets/448770c9-d30c-4aa3-9fb5-7e1ccd88eb2d)
 *Exemplo de resultados após a análise.*
 
 ## 💻 Instalação
@@ -40,11 +40,3 @@
 
 - [Node.js](https://nodejs.org/) (versão 14 ou superior)
 - [Git](https://git-scm.com/) (Se for clonar)
-
-### Passos
-
-1. **Clone o Repositório**
-
-   ```bash
-   git clone https://github.com/SeuUsuario/GenesisHorusCheckerPro.git
-   cd GenesisHorusCheckerPro
