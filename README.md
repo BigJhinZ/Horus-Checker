@@ -5,6 +5,13 @@
 
 **Genesis Horus Checker Pro** é uma ferramenta avançada de análise de segurança para projetos em **JavaScript (JS)** e **TypeScript (TS)**. Desenvolvida para identificar padrões suspeitos e potenciais ameaças no código, esta aplicação é essencial para desenvolvedores que buscam garantir a integridade e segurança de seus projetos.
 
+## 📥 Download
+
+Baixe a versão mais recente do instalador aqui:
+
+[Download Genesis Horus Checker Pro v1.0.0](https://github.com/BigJhinZ/Horus-Checker/releases/tag/v1.0.0)
+
+
 ## 📋 Índice
 
 - [Principais Funcionalidades](#-principais-funcionalidades)
