@@ -18,9 +18,7 @@ Baixe a versão mais recente do instalador aqui:
 - [Capturas de Tela](#-capturas-de-tela)
 - [Instalação](#-instalação)
 - [Como Usar](#-como-usar)
-- [Filtros de Detecção](#-filtros-de-detecção)
 - [Contribuição](#-contribuição)
-- [Licença](#-licença)
 - [Contato](#-contato)
 
 ## 🚀 Principais Funcionalidades
