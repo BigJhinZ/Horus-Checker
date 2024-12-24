@@ -45,11 +45,6 @@ Baixe a versão mais recente do instalador aqui:
 
 - **Instalador básico**": Após a instalação, será criado um atalho na área de trabalho.
 
-### Pré-requisitos
-
-- [Node.js](https://nodejs.org/) (versão 14 ou superior)
-- [Git](https://git-scm.com/) (Se for clonar)
-
 ## 🦾 Contribuição
 
 - **PIX**: bigjhinz@gmail.com
