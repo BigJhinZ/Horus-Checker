@@ -46,3 +46,7 @@ Baixe a versão mais recente do instalador aqui:
 ## 🦾 Contribuição
 
 - **PIX**: bigjhinz@gmail.com
+
+## 🗯 Contato
+
+- **DISCORD**: bigjhinzxy
