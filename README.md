@@ -49,4 +49,4 @@ Baixe a versão mais recente do instalador aqui:
 
 ## 🗯 Contato
 
-- **DISCORD**: bigjhinzxy
+- **DISCORD**: biggiejhinzy
